@@ -1,8 +1,9 @@
 ### Hi there! 👋 I'm Budhil Nigam  
-#### 🚀 Passionate Developer | Tech Enthusiast | Open Source Contributor  
+#### 🚀 Passionate Web Developer | Machine Learning and CV Sophomore | Tech Enthusiast | Open Source Contributor  
 
 Welcome to my GitHub! I love exploring new technologies, building cool projects, and contributing to open-source communities.  
 
+<!--
 ---
 
 ### 🚀 About Me
@@ -58,6 +59,7 @@ Welcome to my GitHub! I love exploring new technologies, building cool projects,
 
 💖 **Thanks for visiting my profile!** Let's build something amazing together! 🚀
 
+-->
 
 <!--
 **budhilnigam/budhilnigam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
